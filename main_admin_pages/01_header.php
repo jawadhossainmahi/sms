@@ -28,7 +28,7 @@
 include('../includes/functions.php');
 
 
-$site_url = 'http://localhost/New folder (2)/projects c/SMS/';
+$site_url = 'SMS/';
 
 if (isset($_SESSION['login'])) {
 
