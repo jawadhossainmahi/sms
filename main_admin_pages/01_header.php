@@ -28,7 +28,7 @@
 include('../includes/functions.php');
 
 
-$site_url = 'SMS/';
+$site_url = 'sms-main/';
 
 if (isset($_SESSION['login'])) {
 
